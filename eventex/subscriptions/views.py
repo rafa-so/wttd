@@ -2,5 +2,5 @@
 
 from django.http import HttpResponse
 
-#def subscribe(resquest):
-#    return HttpResponse
+def subscribe(resquest):
+    return HttpResponse
